@@ -19,5 +19,7 @@ Technologies used: • ASP.NET Core • Entity Framework Core • Entity Framewo
 dotnet ef migrations add FirstMigration
 
 dotnet ef database update
+
 5.Open the OrderController file and put the domain of your web service 
+
 6.Open the OrderRepository file and put the parameters, including dhe username and dhe password for your web service to be consumed.
